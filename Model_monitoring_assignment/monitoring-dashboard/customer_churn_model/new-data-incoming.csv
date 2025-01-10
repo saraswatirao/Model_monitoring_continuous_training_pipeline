@@ -1,0 +1,1410 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.69,1311.75,0
+Male,0,No,No,25,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.05,45.55,0
+Female,0,Yes,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.56,973.35,0
+Female,0,No,No,6,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,No,Bank transfer (automatic),0.43,2032.3,0
+Male,0,Yes,Yes,19,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.93,5324.5,0
+Female,1,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.1,997.65,1
+Male,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.39,1099.6,1
+Female,0,No,No,49,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,0.7,83.4,0
+Female,0,No,No,11,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Mailed check,0.06,3847.6,0
+Male,0,No,No,36,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.46,48.55,1
+Male,0,No,No,30,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.01,1665.2,0
+Male,0,No,No,5,No,No phone service,DSL,No,No,No,No,No,No,One year,Yes,Mailed check,0.73,788.05,0
+Female,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.25,387.7,0
+Female,0,Yes,Yes,49,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,0.16,1972.35,0
+Female,0,No,No,34,No,No phone service,DSL,No,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),0.67,1187.05,0
+Female,0,No,No,31,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.33,929.3,0
+Male,0,Yes,Yes,18,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.42,1054.75,0
+Male,0,Yes,No,28,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.5,5238.9,1
+Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.29,1465.75,1
+Female,1,No,No,27,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.82,1359.45,0
+Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.71,1781.35,0
+Male,0,No,No,20,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,0.43,414.1,0
+Female,0,No,No,29,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,0.44,443.9,1
+Female,0,Yes,Yes,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),0.16,5566.4,0
+Male,0,No,No,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.29,20.45,0
+Female,0,Yes,Yes,32,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,0.86,134.35,1
+Male,0,Yes,Yes,13,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.55,6263.8,0
+Male,0,No,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.56,93.55,0
+Male,0,No,No,43,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.48,568.2,0
+Female,0,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.43,1016.7,0
+Male,1,No,No,30,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Electronic check,0.97,74.7,0
+Male,0,Yes,No,30,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.59,78.25,0
+Male,1,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.72,3653.0,0
+Female,0,Yes,No,40,No,No phone service,DSL,No,Yes,No,Yes,No,No,One year,No,Mailed check,0.23,1391.65,0
+Male,0,Yes,Yes,4,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.08,5873.75,0
+Female,0,No,No,25,Yes,No,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),0.9,574.5,0
+Male,0,No,No,29,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.33,75.45,1
+Male,0,No,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.23,1008.7,0
+Female,0,No,No,42,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.46,114.15,0
+Female,1,Yes,Yes,12,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),0.48,864.85,0
+Male,0,No,Yes,23,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,0.81,3030.6,1
+Male,1,Yes,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.14,8022.85,0
+Female,0,Yes,Yes,3,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),0.63,3874.1,0
+Male,0,Yes,Yes,6,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),0.14,1423.35,0
+Male,1,No,No,50,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.85,964.9,0
+Female,1,Yes,No,26,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.25,100.8,1
+Male,0,No,No,21,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,0.63,2165.05,1
+Female,0,Yes,Yes,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.29,520.1,0
+Female,0,Yes,No,35,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.86,79.35,1
+Male,0,No,No,28,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.09,226.45,1
+Male,0,Yes,No,43,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.03,7616.0,0
+Female,0,No,No,9,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),0.11,151.3,1
+Male,0,Yes,No,32,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Two year,No,Mailed check,0.33,4234.15,0
+Male,0,No,No,8,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,0.58,888.75,0
+Female,0,No,No,36,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),0.27,3795.45,0
+Female,1,No,No,33,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.58,159.4,1
+Male,1,Yes,No,20,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.62,914.3,1
+Male,0,No,No,41,Yes,Yes,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,0.19,1611.65,0
+Female,1,No,No,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.13,164.3,1
+Female,1,No,No,8,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.17,2857.6,0
+Female,1,No,No,5,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.94,3655.45,1
+Female,0,Yes,No,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.02,1836.9,0
+Male,0,Yes,Yes,48,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.83,6614.9,0
+Female,0,Yes,Yes,50,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.05,1790.65,0
+Male,0,Yes,No,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.99,2542.45,1
+Female,0,Yes,Yes,26,Yes,Yes,DSL,Yes,No,Yes,No,No,Yes,One year,Yes,Bank transfer (automatic),0.95,3808.0,0
+Male,0,Yes,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),0.94,674.55,0
+Female,0,Yes,No,18,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),0.05,3009.5,0
+Male,0,No,Yes,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.79,83.75,0
+Female,0,No,No,38,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.06,74.35,0
+Male,0,Yes,No,20,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.92,1139.2,1
+Male,0,Yes,Yes,9,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,0.2,3482.85,0
+Female,0,Yes,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.18,1753.0,0
+Female,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.47,174.65,0
+Male,0,No,No,28,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.77,7711.25,0
+Female,0,Yes,Yes,33,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.23,1451.6,1
+Male,0,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,One year,Yes,Credit card (automatic),0.22,4563.0,0
+Female,1,Yes,No,36,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0.03,3452.55,0
+Male,0,Yes,No,42,Yes,No,DSL,Yes,No,Yes,No,No,No,Two year,No,Credit card (automatic),0.7,2296.25,0
+Female,1,Yes,No,5,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),0.89,1497.05,0
+Female,0,No,No,11,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.27,4895.1,0
+Male,1,Yes,No,23,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.31,4009.2,0
+Female,0,No,No,12,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,No,Bank transfer (automatic),0.52,469.25,0
+Female,0,No,No,5,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.25,1789.25,1
+Male,0,Yes,Yes,30,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Electronic check,0.12,6668.05,0
+Male,0,Yes,Yes,11,Yes,Yes,DSL,No,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,0.46,3770.0,0
+Female,0,No,No,40,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.66,4443.45,1
+Male,0,Yes,No,41,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.67,1914.9,1
+Male,0,Yes,Yes,41,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,0.64,1663.75,0
+Female,0,Yes,Yes,29,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),0.35,4758.8,0
+Male,0,No,No,15,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.86,1008.55,1
+Female,0,No,No,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.19,20.4,0
+Female,0,Yes,Yes,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),0.71,1039.45,0
+Female,0,Yes,No,33,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Two year,Yes,Bank transfer (automatic),0.55,6052.25,0
+Male,0,No,No,23,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,0.39,29.15,0
+Female,1,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.84,321.75,1
+Female,0,No,No,50,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.24,3634.8,0
+Female,0,No,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.73,2407.3,1
+Male,0,Yes,Yes,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,0.14,7297.75,0
+Male,1,Yes,Yes,17,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.67,8196.4,0
+Female,0,Yes,Yes,8,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Mailed check,0.47,4415.75,0
+Female,0,No,No,32,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.61,144.15,1
+Male,0,Yes,Yes,10,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.58,5728.55,0
+Male,1,Yes,No,13,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),0.21,5968.4,0
+Female,0,No,No,31,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),0.79,259.8,1
+Female,1,Yes,No,27,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.7,2381.55,1
+Female,0,No,No,5,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.82,2625.55,1
+Female,0,Yes,Yes,33,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0.55,63.75,0
+Female,0,No,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.51,632.2,0
+Male,0,No,No,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.9,20.0,0
+Female,0,Yes,No,28,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0.55,2003.6,0
+Female,0,No,No,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.52,673.2,0
+Female,0,No,No,15,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.52,45.15,0
+Female,1,No,No,23,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.82,392.5,0
+Female,0,No,No,22,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Electronic check,0.29,1258.35,0
+Female,0,No,No,34,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,No,Mailed check,0.38,35.05,1
+Male,0,Yes,Yes,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.48,867.3,0
+Female,0,Yes,No,21,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.36,711.15,0
+Female,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.11,340.35,0
+Female,0,Yes,No,29,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),0.73,3975.7,0
+Male,0,Yes,No,36,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),0.73,4523.25,0
+Male,0,Yes,Yes,29,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.99,90.05,0
+Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.52,7795.95,0
+Female,0,Yes,No,16,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),0.33,2585.95,1
+Male,0,Yes,Yes,33,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,0.54,1151.55,0
+Female,0,Yes,No,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.33,45.75,0
+Female,1,No,No,48,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.23,79.2,1
+Female,0,Yes,Yes,16,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,No,Bank transfer (automatic),0.31,5811.8,0
+Female,0,Yes,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,0.05,1090.65,0
+Female,0,No,Yes,42,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.96,4391.25,0
+Female,0,No,No,19,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.75,1617.5,1
+Female,1,No,No,28,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.72,50.55,1
+Female,0,No,No,26,Yes,No,DSL,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.48,892.65,1
+Male,0,No,Yes,41,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.66,50.05,0
+Female,0,No,No,37,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,0.95,1901.25,0
+Female,0,Yes,Yes,26,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.37,4528.0,0
+Female,0,No,No,44,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.38,1862.9,0
+Male,1,Yes,No,40,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.78,4641.1,0
+Male,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.8,180.7,0
+Female,1,No,No,36,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.56,2897.95,0
+Female,0,Yes,Yes,46,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,0.7,3533.6,0
+Female,1,No,No,35,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.06,3190.25,0
+Male,0,No,Yes,38,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.52,846.8,0
+Male,0,No,Yes,49,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.36,1424.2,0
+Female,0,No,No,47,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.8,4016.85,1
+Male,1,Yes,No,43,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.99,5481.25,0
+Male,0,Yes,Yes,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.94,917.45,0
+Male,0,No,No,21,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,Yes,Bank transfer (automatic),0.47,5731.45,0
+Male,0,No,No,14,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.17,712.75,1
+Female,0,Yes,Yes,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.8,543.0,0
+Male,0,Yes,No,6,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.61,6603.0,1
+Female,0,Yes,Yes,21,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,One year,Yes,Credit card (automatic),0.71,3562.5,0
+Male,0,No,No,50,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,0.79,238.5,0
+Female,0,No,No,36,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,0.23,3096.9,0
+Female,0,Yes,No,24,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),0.37,147.8,0
+Female,0,Yes,No,34,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.53,5985.0,0
+Female,0,No,No,42,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.92,48.6,0
+Female,0,Yes,No,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.68,1397.65,0
+Male,0,No,No,16,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.5,2537.0,0
+Male,0,Yes,No,30,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.62,1629.2,0
+Male,0,Yes,Yes,8,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.52,7031.3,0
+Female,0,No,Yes,18,Yes,Yes,DSL,Yes,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),0.35,693.3,0
+Male,1,Yes,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),0.32,183.15,0
+Female,1,No,No,42,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.32,1400.3,0
+Female,0,No,No,40,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.41,3110.1,1
+Male,0,Yes,Yes,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),0.92,218.5,0
+Female,0,Yes,Yes,10,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,0.14,7303.05,0
+Female,0,Yes,No,45,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.26,313.45,0
+Female,0,Yes,No,5,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.66,5138.1,0
+Male,0,Yes,No,41,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.18,2939.8,0
+Female,0,No,No,2,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,0.21,1423.15,0
+Male,0,Yes,No,32,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,0.45,934.8,0
+Female,0,Yes,Yes,10,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,No,Credit card (automatic),0.36,444.75,0
+Female,0,No,No,12,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.86,480.75,1
+Female,0,Yes,Yes,44,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,0.77,816.8,0
+Female,0,Yes,No,35,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.22,2395.7,0
+Male,0,Yes,Yes,43,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,0.31,2823.0,0
+Male,0,Yes,Yes,9,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.85,6237.05,0
+Male,0,Yes,Yes,50,Yes,No,Fiber optic,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.3,608.8,1
+Female,0,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,0.46,85.45,1
+Female,1,Yes,No,20,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.29,6479.4,0
+Male,0,No,No,41,No,No phone service,DSL,Yes,No,Yes,No,No,No,One year,Yes,Credit card (automatic),0.91,1463.7,0
+Female,0,No,No,1,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,1.0,86.35,0
+Female,0,No,No,17,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),0.19,1994.3,1
+Male,1,Yes,No,21,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.11,4388.4,1
+Male,0,Yes,No,11,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.17,959.9,0
+Female,0,No,No,33,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,0.85,155.8,1
+Male,0,No,No,42,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Mailed check,0.7,55.05,0
+Female,0,No,Yes,5,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.33,69.65,1
+Male,0,Yes,Yes,26,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Mailed check,0.46,4793.8,0
+Female,0,No,No,36,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0.11,324.2,0
+Male,1,No,No,12,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),0.95,2497.35,1
+Male,0,Yes,No,5,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.73,1724.15,0
+Female,0,Yes,Yes,40,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.5,346.45,0
+Female,0,No,No,23,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,0.53,1025.95,1
+Male,0,Yes,Yes,31,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,0.99,3942.45,0
+Male,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.15,51.6,0
+Male,0,No,Yes,50,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.56,1654.6,0
+Female,0,No,Yes,6,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,0.96,341.45,1
+Male,0,Yes,Yes,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.82,8093.15,0
+Male,0,No,No,44,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),0.8,4577.75,0
+Male,0,No,No,20,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.09,4308.25,0
+Female,0,Yes,No,33,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.48,6786.1,0
+Male,1,No,No,40,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.62,2595.85,0
+Female,0,No,No,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.73,19.9,0
+Male,0,No,No,37,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,0.22,916.15,0
+Male,0,Yes,Yes,3,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.51,1345.85,0
+Male,0,No,Yes,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.19,75.45,0
+Female,0,Yes,Yes,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.56,272.35,0
+Male,0,No,No,19,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.04,130.55,0
+Male,0,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.13,3145.9,0
+Male,1,Yes,No,33,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.74,74.4,1
+Female,0,Yes,No,39,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,0.22,1761.05,1
+Female,0,Yes,No,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),0.19,1066.15,0
+Male,0,Yes,No,10,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),0.65,4681.75,0
+Male,1,Yes,No,29,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.67,2414.55,0
+Male,0,No,No,43,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,0.94,51.25,0
+Female,0,Yes,No,27,Yes,No,DSL,No,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,0.11,4378.8,0
+Female,0,Yes,No,48,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),0.06,2196.45,0
+Male,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.41,1094.35,0
+Male,0,Yes,Yes,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.93,635.9,0
+Female,0,No,No,25,No,No phone service,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,0.45,135.75,0
+Female,0,Yes,Yes,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.81,1087.25,0
+Female,0,Yes,Yes,17,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),0.91,1759.4,0
+Male,1,No,No,46,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.72,1910.6,1
+Female,0,No,No,3,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,0.74,620.55,1
+Female,0,No,No,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.29,19.95,0
+Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.59,402.5,0
+Male,0,No,No,44,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.69,49.7,0
+Male,0,Yes,No,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.53,1304.8,0
+Female,0,Yes,Yes,24,No,No phone service,DSL,Yes,No,No,Yes,No,No,Two year,No,Credit card (automatic),0.01,2545.7,0
+Female,0,Yes,No,41,Yes,Yes,DSL,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),0.68,3833.95,0
+Male,0,No,No,37,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.36,62.0,0
+Female,0,Yes,No,47,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.61,617.15,0
+Male,0,No,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.44,324.8,0
+Male,0,Yes,Yes,11,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),0.96,3139.8,0
+Male,0,No,No,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.26,33.7,0
+Female,0,No,No,10,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.46,475.25,0
+Female,1,No,No,31,Yes,Yes,DSL,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,0.43,1652.4,0
+Female,1,No,No,38,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.49,6976.75,0
+Female,0,Yes,No,12,No,No phone service,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),0.86,1190.5,0
+Female,0,No,No,47,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.81,1776.95,1
+Male,0,No,Yes,42,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.32,1033.95,0
+Female,0,No,No,6,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Credit card (automatic),0.08,4615.25,0
+Male,0,No,No,19,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.04,20.05,0
+Female,0,Yes,Yes,50,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.71,1673.4,0
+Female,0,Yes,Yes,26,Yes,Yes,DSL,No,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),0.56,3246.45,0
+Male,0,No,No,30,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.56,44.45,0
+Male,0,Yes,Yes,1,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,One year,No,Electronic check,0.11,1667.25,0
+Male,0,Yes,Yes,28,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.05,4664.5,0
+Male,1,Yes,No,19,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,One year,Yes,Electronic check,0.12,2220.1,0
+Male,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Two year,Yes,Credit card (automatic),0.88,5420.65,0
+Female,0,No,No,13,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.11,2416.1,1
+Female,0,Yes,No,19,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.87,6144.55,1
+Female,0,No,No,15,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.27,525.0,0
+Female,0,Yes,No,6,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),0.48,690.5,0
+Female,1,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),0.69,5438.95,0
+Female,0,No,No,38,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.66,155.35,1
+Male,0,No,No,19,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.87,521.35,0
+Male,0,No,No,32,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),0.18,5720.95,0
+Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),0.35,4236.6,0
+Male,0,Yes,No,36,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.87,99.75,1
+Male,0,No,No,32,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.21,5426.85,1
+Female,0,Yes,Yes,8,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.5,7895.15,0
+Male,0,Yes,Yes,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),0.64,1068.15,0
+Female,0,Yes,No,46,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.25,5894.5,0
+Female,0,No,No,28,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,0.11,161.45,0
+Male,0,Yes,No,35,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,0.45,6460.55,0
+Male,0,Yes,Yes,47,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.45,7173.15,0
+Female,0,Yes,Yes,23,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.53,5580.8,0
+Male,0,Yes,Yes,31,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,0.67,1338.15,1
+Male,0,No,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.37,1240.8,0
+Male,0,Yes,No,39,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.73,6747.35,0
+Male,0,No,No,37,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.0,45.6,0
+Male,0,No,No,43,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Credit card (automatic),0.69,6743.55,0
+Female,0,Yes,No,30,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.68,6388.65,0
+Female,1,No,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.2,3838.75,0
+Male,0,No,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.53,609.1,0
+Male,0,No,No,34,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),0.16,4747.5,0
+Male,0,No,Yes,46,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),0.04,7382.25,0
+Female,0,No,No,7,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.25,49.55,0
+Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Two year,No,Mailed check,0.07,3460.95,0
+Female,0,Yes,Yes,41,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.87,639.45,0
+Female,1,No,No,41,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.96,294.45,0
+Female,0,Yes,Yes,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,0.65,2874.15,1
+Female,0,Yes,Yes,33,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.38,1385.85,0
+Male,0,Yes,Yes,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.3,70.0,1
+Male,0,Yes,No,39,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),0.05,6157.6,0
+Male,1,Yes,Yes,40,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.81,7379.8,0
+Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.66,7334.05,0
+Female,1,No,No,49,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.06,85.7,1
+Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.78,1534.75,1
+Male,1,Yes,No,43,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.64,527.9,1
+Female,0,No,No,34,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.55,1522.65,0
+Male,0,No,No,18,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0.92,50.15,0
+Female,0,No,No,14,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.12,1098.85,0
+Male,0,No,Yes,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.87,581.85,0
+Female,1,Yes,No,36,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.82,3653.35,1
+Female,0,No,No,34,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.34,1358.85,1
+Male,0,Yes,Yes,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.94,1356.7,0
+Female,0,Yes,Yes,22,No,No phone service,DSL,No,Yes,No,No,No,Yes,Month-to-month,No,Mailed check,0.03,92.5,0
+Male,0,No,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.39,452.7,1
+Male,1,Yes,No,28,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.29,1459.35,0
+Male,0,No,No,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.98,684.4,0
+Male,1,Yes,No,29,No,No phone service,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.32,2651.2,1
+Male,1,Yes,No,29,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.47,3273.55,1
+Male,0,No,No,12,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.37,760.05,0
+Male,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.18,6536.5,0
+Male,1,Yes,No,17,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.25,1750.85,0
+Male,0,No,No,16,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.13,6521.9,0
+Male,0,No,Yes,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.51,467.5,0
+Male,0,No,No,1,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),0.42,2085.45,0
+Female,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.57,69.7,1
+Female,0,Yes,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.25,1103.25,0
+Female,0,Yes,Yes,31,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.96,6997.3,0
+Female,1,No,No,36,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.26,672.7,0
+Male,1,No,No,32,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.24,1236.15,1
+Male,0,Yes,No,11,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.41,5498.8,0
+Female,0,No,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.99,355.2,1
+Male,0,Yes,Yes,34,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,0.03,4238.45,0
+Male,0,No,No,31,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.37,96.45,1
+Male,0,No,No,1,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),1.0,140.7,1
+Male,0,No,No,34,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.67,336.7,0
+Female,0,Yes,No,32,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0.77,580.1,0
+Female,0,Yes,Yes,11,Yes,Yes,Fiber optic,Yes,No,No,Yes,No,Yes,One year,Yes,Credit card (automatic),0.53,6341.45,1
+Male,0,Yes,Yes,44,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,One year,No,Bank transfer (automatic),0.23,1958.45,0
+Male,0,No,Yes,21,Yes,No,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.34,2654.05,0
+Male,0,Yes,Yes,20,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.12,4469.1,0
+Male,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.46,520.55,0
+Male,0,Yes,No,3,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.05,3161.2,0
+Female,0,Yes,No,18,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.07,4162.05,0
+Female,1,No,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.66,89.3,1
+Male,0,No,No,10,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,0.23,50.9,1
+Male,0,No,No,3,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),0.23,1237.3,0
+Female,0,No,Yes,15,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.73,1312.15,1
+Female,0,No,No,16,Yes,No,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),0.35,425.9,1
+Male,0,No,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.66,19.25,1
+Male,0,No,No,28,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),0.54,1046.5,1
+Female,0,Yes,No,48,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.54,6365.35,0
+Male,0,No,No,41,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.84,74.95,1
+Female,0,Yes,No,30,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,0.44,35.0,0
+Female,0,Yes,No,25,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.5,3414.65,0
+Male,0,No,No,26,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.05,1059.55,1
+Female,0,No,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Two year,Yes,Bank transfer (automatic),0.93,7261.25,0
+Male,0,No,No,39,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.97,46.3,1
+Male,0,No,No,11,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.11,270.95,1
+Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.29,649.65,1
+Male,0,Yes,Yes,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.31,1086.75,0
+Female,0,Yes,Yes,6,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.23,5986.55,0
+Female,0,Yes,No,14,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.01,1441.1,1
+Male,1,No,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.57,88.8,1
+Male,1,Yes,No,43,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.22,1756.2,0
+Male,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,0.53,1007.8,0
+Male,0,Yes,No,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),0.34,1252.0,0
+Male,0,Yes,Yes,25,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Mailed check,0.15,1625.0,1
+Male,0,Yes,Yes,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.37,1303.25,0
+Female,0,Yes,Yes,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),1.0,1292.65,0
+Female,1,No,No,3,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Two year,No,Bank transfer (automatic),0.21,3103.25,0
+Female,0,No,No,6,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,0.38,6838.6,0
+Male,0,Yes,No,31,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,0.26,3171.6,0
+Male,0,Yes,No,15,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.14,4307.1,0
+Female,0,Yes,Yes,24,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.89,5460.2,0
+Female,0,No,No,3,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,Yes,Mailed check,0.94,773.2,0
+Male,0,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.39,879.8,0
+Female,0,No,No,36,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,No,Electronic check,0.73,1952.8,0
+Female,0,No,No,18,No,No phone service,DSL,No,No,No,No,Yes,No,Month-to-month,No,Credit card (automatic),0.54,108.95,1
+Female,1,No,No,24,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,0.78,1174.35,1
+Female,0,Yes,No,41,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,One year,No,Credit card (automatic),0.89,2479.25,0
+Male,0,No,Yes,45,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,0.59,575.45,1
+Female,0,No,Yes,46,Yes,No,DSL,No,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),0.32,1266.35,0
+Male,0,Yes,Yes,44,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.17,1360.25,0
+Female,0,No,No,15,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.99,70.15,1
+Female,0,No,No,29,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.29,3887.85,0
+Male,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),0.65,445.3,0
+Male,1,Yes,No,9,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.29,7898.45,0
+Male,0,No,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.37,20.6,1
+Female,0,No,No,4,Yes,Yes,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,0.7,1156.35,0
+Female,0,No,No,37,Yes,No,DSL,No,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),0.69,2762.75,0
+Male,0,Yes,No,14,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.19,8310.55,0
+Male,0,No,No,34,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,1.0,75.5,0
+Female,0,No,No,29,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.16,762.25,1
+Female,1,No,No,50,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.56,1043.8,0
+Male,0,Yes,Yes,44,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.22,1515.1,1
+Male,1,No,No,38,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.63,73.65,1
+Male,0,Yes,Yes,9,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,No,Bank transfer (automatic),0.29,3694.45,0
+Male,0,No,No,10,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,0.23,51.25,1
+Male,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.29,754.5,0
+Female,0,No,No,43,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.5,522.95,1
+Male,1,No,No,30,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.59,6841.05,0
+Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.39,1123.65,0
+Female,0,No,No,2,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.73,1111.65,1
+Male,1,No,No,45,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.6,4718.25,1
+Male,0,No,No,30,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.73,7383.7,0
+Male,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.09,243.65,0
+Male,0,No,No,20,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.35,438.4,1
+Female,0,Yes,Yes,5,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,No,Mailed check,0.18,663.05,1
+Male,0,No,No,13,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),0.98,1269.6,0
+Female,0,No,Yes,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,0.15,1070.15,0
+Male,0,Yes,Yes,19,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.3,1573.05,0
+Female,0,Yes,Yes,42,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.97,239.45,0
+Male,0,Yes,No,28,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,0.89,3184.25,1
+Male,0,No,No,48,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.51,44.9,0
+Female,0,Yes,No,39,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.51,6637.9,0
+Female,0,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.95,810.45,0
+Male,1,Yes,No,45,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.92,5427.05,1
+Male,0,Yes,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.8,49.65,0
+Female,0,No,Yes,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.11,38.25,0
+Female,0,No,No,24,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,0.76,1175.85,0
+Male,0,Yes,Yes,49,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,0.55,4138.7,0
+Male,0,Yes,No,46,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.38,7953.25,0
+Male,1,Yes,No,33,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.58,2184.85,0
+Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.42,3769.7,0
+Male,0,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,0.21,2192.9,0
+Male,0,No,Yes,39,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.64,1001.5,0
+Female,0,No,Yes,49,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.74,193.8,1
+Male,0,Yes,No,18,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.22,7132.15,0
+Female,0,No,No,37,Yes,Yes,DSL,Yes,Yes,No,No,No,No,One year,Yes,Bank transfer (automatic),0.12,2421.6,0
+Male,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.98,20.45,0
+Female,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.11,1119.9,0
+Female,0,No,Yes,39,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.59,498.1,0
+Female,1,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.44,4735.35,0
+Female,0,No,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),0.85,237.7,0
+Male,0,No,No,43,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.56,45.05,1
+Male,0,No,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.51,19.65,0
+Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.13,2227.8,0
+Female,0,No,No,6,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.53,1566.9,0
+Male,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.64,165.45,1
+Male,0,No,No,38,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.8,834.1,1
+Male,0,Yes,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),0.33,7581.5,0
+Female,1,Yes,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.84,1263.05,0
+Male,0,Yes,No,22,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,Yes,Credit card (automatic),0.26,1292.2,0
+Female,0,Yes,No,37,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.16,627.4,1
+Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.32,6215.35,1
+Male,0,No,No,18,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.99,6903.1,1
+Female,0,Yes,Yes,15,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,No,Mailed check,0.05,5153.5,0
+Female,0,No,No,38,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.73,191.05,1
+Female,0,Yes,No,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.45,330.8,0
+Male,0,No,No,14,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.58,1156.55,0
+Male,0,Yes,Yes,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.81,19.65,0
+Male,0,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.72,268.45,0
+Female,0,No,No,11,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),0.56,3306.85,0
+Female,0,No,No,19,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.78,3334.9,0
+Male,0,Yes,No,10,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Mailed check,0.93,3865.45,0
+Male,0,Yes,No,7,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),0.56,7085.5,0
+Male,0,No,No,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.87,342.4,1
+Female,0,Yes,Yes,41,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.58,4616.05,0
+Female,0,No,No,18,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.83,214.55,0
+Female,0,No,No,22,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,0.38,3739.8,0
+Female,0,Yes,No,17,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,Yes,Credit card (automatic),0.34,4124.65,0
+Male,0,No,No,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.32,19.65,1
+Male,0,Yes,Yes,28,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0.91,2570.2,0
+Male,1,No,No,15,No,No phone service,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.99,2555.05,0
+Male,0,No,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.58,181.5,1
+Male,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.73,684.85,0
+Female,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),0.87,682.1,0
+Female,0,Yes,Yes,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.1,1388.0,0
+Male,0,Yes,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.02,1185.0,0
+Male,0,No,Yes,21,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.52,223.9,0
+Male,0,No,No,13,Yes,No,DSL,Yes,Yes,Yes,No,No,No,One year,No,Mailed check,0.63,2021.2,0
+Male,0,No,No,42,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.55,24.8,1
+Female,0,Yes,Yes,30,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.9,235.0,0
+Male,0,No,No,11,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.25,5760.65,0
+Female,0,No,No,42,Yes,No,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,0.97,829.3,0
+Male,0,No,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.21,21.1,0
+Female,0,No,No,32,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),0.3,5121.75,0
+Male,0,No,No,17,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.99,162.45,1
+Female,1,Yes,No,27,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.04,7904.25,0
+Male,0,Yes,No,5,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,0.39,3778.85,0
+Male,1,No,No,43,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.86,898.35,1
+Female,0,No,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.79,75.1,1
+Female,0,Yes,No,41,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0.64,165.0,1
+Female,0,No,No,45,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Bank transfer (automatic),0.71,447.75,0
+Female,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,0.07,1348.95,0
+Female,0,No,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.0,20.35,0
+Female,0,Yes,Yes,30,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),0.46,2066.0,0
+Male,1,Yes,No,8,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.96,8061.5,0
+Male,0,No,Yes,43,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.06,5196.1,0
+Male,1,Yes,No,1,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),0.63,4119.4,0
+Female,0,Yes,No,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.44,55.25,0
+Male,0,Yes,No,50,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Electronic check,0.35,5769.6,1
+Female,0,Yes,Yes,27,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Mailed check,0.96,1087.45,0
+Male,1,Yes,No,14,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.07,457.1,0
+Male,0,Yes,No,2,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,One year,Yes,Electronic check,0.34,3250.45,0
+Female,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.13,139.25,0
+Male,0,Yes,Yes,30,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No,One year,Yes,Credit card (automatic),0.12,5430.35,0
+Female,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.08,1035.7,0
+Female,1,No,No,2,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.72,25.7,1
+Male,0,Yes,No,11,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.19,2467.1,1
+Female,0,No,No,22,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.38,287.4,1
+Female,0,Yes,Yes,20,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.78,5886.85,0
+Female,1,Yes,No,36,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0.55,1836.25,1
+Male,0,No,No,5,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.33,298.35,1
+Female,0,Yes,No,2,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.17,2674.15,0
+Female,0,Yes,Yes,18,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.6,1157.05,1
+Male,1,No,No,49,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.03,2948.6,0
+Female,1,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.48,735.9,0
+Female,0,No,Yes,29,No,No phone service,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,0.61,402.6,0
+Female,0,No,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),0.15,92.05,0
+Female,0,Yes,Yes,28,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,0.69,2568.55,1
+Male,0,No,No,9,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.03,98.5,1
+Male,1,No,No,27,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.72,3759.05,1
+Female,0,No,No,45,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.03,151.3,1
+Female,0,No,No,12,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.62,1203.95,0
+Female,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.08,4729.75,0
+Female,0,No,No,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.05,124.45,0
+Male,1,Yes,No,32,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,0.85,1975.85,0
+Female,0,No,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.76,2933.2,1
+Male,0,No,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,0.38,907.05,0
+Female,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.73,150.35,0
+Female,0,Yes,Yes,47,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.52,5935.1,0
+Female,0,No,Yes,41,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Credit card (automatic),0.42,2016.45,0
+Male,0,Yes,Yes,31,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),0.41,1636.95,0
+Male,0,No,No,47,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.33,1254.7,1
+Male,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.07,33.2,1
+Male,0,No,Yes,22,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Mailed check,0.88,343.45,0
+Female,1,No,No,47,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.75,5538.8,0
+Female,0,No,No,43,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.56,153.05,1
+Female,1,Yes,Yes,42,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,0.7,2896.55,0
+Male,0,No,No,34,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.71,1210.4,1
+Male,0,No,Yes,32,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.92,1413.0,0
+Male,1,Yes,No,39,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.16,834.7,0
+Male,0,No,No,26,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.6,1301.9,0
+Female,0,No,No,13,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.44,679.55,1
+Female,0,No,No,32,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.74,1329.15,0
+Male,0,No,Yes,5,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.64,70.45,0
+Female,0,No,No,4,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Bank transfer (automatic),0.41,6000.1,0
+Female,0,Yes,Yes,38,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.09,1222.8,1
+Female,0,Yes,No,47,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.44,2007.85,0
+Female,0,No,No,29,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.02,8477.6,0
+Male,0,Yes,No,17,Yes,No,DSL,No,No,No,No,No,No,One year,No,Electronic check,0.36,641.25,0
+Female,0,No,No,3,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.92,44.15,0
+Male,0,Yes,No,23,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.7,89.05,0
+Male,0,No,No,12,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,0.74,29.7,1
+Male,0,Yes,Yes,6,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.03,1275.85,0
+Male,0,Yes,Yes,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,One year,No,Bank transfer (automatic),0.82,3082.1,0
+Male,0,No,No,21,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.41,4740.0,1
+Male,1,No,No,41,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.85,477.7,1
+Female,0,Yes,No,10,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.04,68.75,1
+Female,0,Yes,Yes,22,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Two year,Yes,Credit card (automatic),0.77,6849.4,0
+Male,0,No,No,7,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Credit card (automatic),0.16,2460.55,0
+Female,0,Yes,Yes,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.39,1336.65,0
+Male,0,No,No,10,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,1.0,25.35,0
+Male,0,No,No,25,No,No phone service,DSL,No,No,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),0.81,3045.75,0
+Male,0,No,No,5,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.1,160.85,0
+Female,0,Yes,No,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.18,1134.25,0
+Female,0,Yes,Yes,23,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.48,147.15,1
+Male,1,Yes,Yes,2,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Bank transfer (automatic),0.88,6179.35,0
+Male,0,Yes,No,41,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.57,1691.9,0
+Female,1,No,No,43,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.53,1120.3,1
+Male,0,No,No,16,Yes,Yes,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Mailed check,0.87,1199.4,0
+Female,0,No,No,21,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.14,889.9,1
+Male,0,No,No,27,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.51,167.3,1
+Male,1,Yes,No,48,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.22,181.65,0
+Female,0,Yes,No,12,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Two year,Yes,Credit card (automatic),0.98,6869.7,0
+Male,0,No,No,22,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,0.82,1348.5,0
+Female,0,No,Yes,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.03,472.65,0
+Male,1,Yes,Yes,24,Yes,Yes,DSL,No,No,No,No,No,No,One year,Yes,Electronic check,0.53,1381.8,0
+Female,0,Yes,No,36,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),0.37,3483.45,0
+Female,0,No,No,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.86,19.9,1
+Male,0,Yes,No,24,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.5,1621.35,0
+Female,0,Yes,Yes,1,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,Two year,No,Electronic check,0.35,3870.3,0
+Female,0,No,No,26,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,No,One year,Yes,Credit card (automatic),0.67,4664.2,0
+Male,1,Yes,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.81,306.6,1
+Female,1,No,No,20,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),0.45,5212.65,0
+Male,0,Yes,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,0.78,99.45,0
+Female,1,Yes,No,1,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.45,7882.25,0
+Female,0,Yes,No,45,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.6,1841.2,0
+Male,0,No,No,5,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.12,85.0,0
+Male,1,Yes,No,19,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.76,4750.95,1
+Male,0,Yes,No,28,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.56,2020.9,0
+Female,0,No,No,37,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),0.98,1520.1,0
+Female,0,Yes,No,49,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.16,6375.8,0
+Male,0,No,No,35,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,0.66,6710.5,1
+Male,1,Yes,No,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.13,847.25,0
+Female,1,Yes,No,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.22,1031.1,0
+Male,0,Yes,Yes,49,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.65,5236.4,0
+Female,1,No,No,49,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.28,4689.5,1
+Female,0,Yes,No,27,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.65,24.8,1
+Male,1,Yes,Yes,42,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.8,2964.8,0
+Male,1,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.31,3171.15,1
+Female,0,No,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.19,232.1,0
+Female,1,No,No,1,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Two year,Yes,Credit card (automatic),0.55,4590.35,0
+Male,0,No,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.58,978.0,0
+Female,0,Yes,No,38,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Electronic check,0.46,3147.5,1
+Female,0,No,Yes,39,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.29,1655.35,0
+Male,0,No,Yes,2,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.49,74.35,1
+Female,0,Yes,No,5,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.44,229.5,1
+Female,0,No,No,15,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Electronic check,0.02,2348.45,0
+Female,0,Yes,Yes,23,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),0.76,5730.7,0
+Female,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.2,19.65,0
+Male,0,No,No,11,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.85,69.85,1
+Female,1,No,No,17,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.87,118.25,0
+Female,1,Yes,Yes,28,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.13,3640.45,1
+Male,0,No,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.7,788.8,1
+Female,0,Yes,No,10,Yes,No,DSL,Yes,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),0.4,2215.45,0
+Male,1,Yes,No,42,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.51,6306.5,0
+Male,0,No,No,45,No,No phone service,DSL,Yes,Yes,No,No,No,Yes,Two year,No,Bank transfer (automatic),0.59,2431.95,0
+Male,0,No,No,5,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Credit card (automatic),0.06,5461.45,0
+Male,0,No,No,7,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.73,8309.55,0
+Female,0,Yes,No,6,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.76,5924.4,0
+Female,0,Yes,Yes,48,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),0.94,6689.0,0
+Female,0,Yes,Yes,6,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.1,1787.35,0
+Female,0,No,No,46,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0.74,3382.3,0
+Male,1,Yes,No,32,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.49,25.05,1
+Male,0,No,No,26,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.2,6300.15,0
+Female,0,Yes,Yes,5,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.4,6010.05,1
+Female,1,Yes,No,17,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.05,1614.7,0
+Female,0,No,No,36,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,0.11,76.35,1
+Female,0,No,No,39,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Electronic check,0.43,3532.0,0
+Male,0,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,0.03,2848.45,0
+Female,0,Yes,Yes,32,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.57,69.8,1
+Male,0,No,No,24,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.2,704.3,0
+Female,1,Yes,No,11,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.17,6127.6,1
+Female,1,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.74,2287.25,1
+Female,0,No,No,7,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Bank transfer (automatic),0.68,4442.75,0
+Female,0,Yes,Yes,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.19,198.1,0
+Male,0,Yes,No,28,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.21,74.6,1
+Female,0,No,No,30,Yes,Yes,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.9,2989.6,0
+Male,0,Yes,No,22,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,Yes,Mailed check,0.38,3766.2,0
+Male,0,No,No,16,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.81,35.55,1
+Female,0,Yes,Yes,8,No,No phone service,DSL,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,0.51,40.1,1
+Male,0,Yes,No,40,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.39,1583.5,0
+Female,0,No,Yes,48,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.79,79.6,1
+Male,0,Yes,No,25,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.83,1687.95,1
+Male,0,Yes,No,34,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.74,1097.15,0
+Female,0,Yes,Yes,10,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.89,5215.1,0
+Female,0,Yes,Yes,14,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,0.95,5817.45,0
+Female,1,No,No,38,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.08,4113.7,0
+Male,0,Yes,No,44,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Bank transfer (automatic),0.61,3479.05,0
+Male,0,No,No,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.13,20.2,0
+Male,1,Yes,No,4,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.4,5812.6,1
+Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.63,404.2,1
+Female,0,Yes,No,9,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,One year,Yes,Electronic check,0.79,5276.1,0
+Male,1,No,No,21,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.23,2088.45,0
+Male,0,Yes,No,47,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.3,999.8,0
+Male,1,No,No,22,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.89,1273.3,0
+Female,0,Yes,No,25,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.07,323.45,0
+Female,0,Yes,Yes,18,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Bank transfer (automatic),0.77,4042.2,0
+Female,0,No,No,11,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,0.47,999.9,0
+Male,0,No,No,42,Yes,Yes,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Credit card (automatic),0.95,5976.9,0
+Male,1,No,No,6,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.79,231.8,1
+Female,0,No,No,42,No,No phone service,DSL,No,No,No,No,No,No,One year,No,Mailed check,0.54,25.85,0
+Male,0,Yes,Yes,49,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,No,Electronic check,0.24,1611.15,0
+Male,0,No,Yes,17,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.13,25.3,1
+Female,0,No,No,25,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.81,53.15,0
+Male,1,Yes,Yes,41,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.97,1857.75,0
+Female,0,No,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.95,84.4,0
+Female,0,No,No,26,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.04,74.3,1
+Female,0,No,No,22,Yes,No,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,0.36,832.05,1
+Female,0,No,No,45,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.62,523.1,0
+Male,0,No,No,11,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.03,926.25,1
+Female,0,Yes,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.75,854.8,0
+Male,1,Yes,No,30,Yes,No,DSL,No,Yes,No,No,No,No,Two year,No,Mailed check,0.11,2398.4,0
+Female,0,Yes,Yes,44,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.81,1068.85,1
+Male,0,No,No,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,1.0,19.45,0
+Female,1,No,No,45,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Credit card (automatic),0.61,5779.6,0
+Male,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.36,225.75,0
+Female,0,Yes,No,27,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.25,7965.95,0
+Male,1,Yes,No,29,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.61,6292.7,0
+Female,1,Yes,No,17,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),0.14,2342.2,1
+Male,0,Yes,No,46,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0.13,251.75,1
+Male,0,Yes,No,29,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Credit card (automatic),0.59,1454.15,1
+Female,1,No,No,19,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.03,131.05,1
+Female,1,Yes,Yes,39,Yes,No,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.54,2911.3,1
+Female,1,Yes,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),0.74,7578.05,0
+Male,0,Yes,Yes,16,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),0.08,2032.3,0
+Female,0,No,No,2,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,0.49,1358.6,0
+Male,0,No,No,3,No,No phone service,DSL,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,0.53,1309.0,0
+Female,0,Yes,Yes,36,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,0.35,5526.75,0
+Male,0,No,No,20,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.08,2854.95,0
+Male,0,Yes,No,42,No,No phone service,DSL,Yes,No,No,Yes,Yes,No,One year,Yes,Bank transfer (automatic),0.58,2188.45,0
+Female,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.62,116.85,0
+Male,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.09,908.15,0
+Female,0,Yes,Yes,36,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Mailed check,0.33,1208.15,0
+Male,0,Yes,Yes,38,Yes,No,DSL,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,0.46,1834.15,0
+Female,0,Yes,No,28,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.56,1776.0,0
+Male,0,Yes,Yes,44,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,0.13,5637.85,0
+Male,0,Yes,Yes,32,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.14,8041.65,0
+Female,0,Yes,Yes,10,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.68,5437.75,0
+Female,0,Yes,Yes,34,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.63,1301.0,1
+Female,1,Yes,No,47,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.68,6668.35,0
+Female,0,Yes,No,39,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.75,4045.65,1
+Male,0,Yes,Yes,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.8,122.9,0
+Female,0,No,No,13,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.22,6697.2,0
+Female,0,No,No,30,Yes,No,DSL,Yes,No,No,No,No,No,One year,Yes,Electronic check,0.87,1886.4,0
+Female,0,No,No,41,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.22,765.45,0
+Female,0,Yes,No,9,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.31,6058.95,0
+Female,0,Yes,Yes,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.68,246.7,0
+Female,1,No,No,50,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.73,4385.05,0
+Male,0,No,No,21,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.93,973.45,1
+Male,0,No,No,6,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Bank transfer (automatic),0.75,4447.55,0
+Female,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.05,1463.45,0
+Male,1,Yes,No,49,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.48,1563.9,0
+Male,0,Yes,No,41,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),0.33,5681.1,0
+Male,0,Yes,Yes,27,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0.41,2570.2,0
+Male,0,No,No,12,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.61,35.25,1
+Male,1,No,No,23,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.56,1146.65,1
+Male,0,No,No,50,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.49,5903.15,0
+Male,0,Yes,Yes,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.35,1377.7,0
+Male,0,Yes,No,39,No,No phone service,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),0.99,1930.9,0
+Male,1,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.01,7299.65,1
+Male,0,Yes,Yes,39,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.57,4872.45,1
+Female,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.93,129.15,0
+Female,0,No,Yes,5,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,0.28,54.5,0
+Female,0,Yes,Yes,49,Yes,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),0.66,1992.2,0
+Male,0,No,No,21,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Electronic check,0.87,49.75,0
+Female,1,Yes,Yes,11,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,No,One year,No,Electronic check,0.7,4154.55,0
+Male,0,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.69,1021.75,0
+Female,0,No,No,5,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.33,4904.25,0
+Male,0,No,No,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.41,1212.25,0
+Female,0,Yes,Yes,8,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0.11,4326.8,0
+Male,0,Yes,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.11,746.75,0
+Male,1,No,No,50,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.3,260.9,1
+Female,0,No,Yes,10,Yes,Yes,DSL,No,No,Yes,No,No,No,One year,Yes,Mailed check,0.19,937.5,1
+Female,0,Yes,Yes,36,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.62,406.05,0
+Female,1,No,No,21,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.22,4860.35,0
+Male,1,Yes,Yes,15,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Credit card (automatic),0.09,5154.6,1
+Female,0,Yes,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.54,1375.4,0
+Female,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.87,606.25,1
+Male,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),0.13,33.7,0
+Male,0,Yes,Yes,43,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.92,453.75,1
+Female,0,Yes,Yes,21,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),0.69,1815.0,0
+Male,0,No,No,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.39,791.15,0
+Male,0,Yes,Yes,49,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),0.57,2375.2,0
+Female,0,No,No,3,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,0.32,3208.65,0
+Male,0,Yes,Yes,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.85,242.4,0
+Male,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.73,124.4,0
+Male,0,No,No,11,No,No phone service,DSL,Yes,No,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),0.45,2181.55,0
+Male,0,No,Yes,42,Yes,No,DSL,No,Yes,Yes,Yes,No,No,One year,Yes,Electronic check,0.04,3283.05,0
+Female,0,Yes,Yes,14,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.29,1270.25,0
+Female,0,No,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.65,1336.35,0
+Female,0,No,No,17,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Mailed check,0.5,1287.85,0
+Male,0,No,No,30,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.88,324.3,1
+Male,0,No,No,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.83,284.35,0
+Female,0,No,No,24,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.67,7853.7,0
+Female,0,Yes,No,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.04,563.05,0
+Male,0,Yes,No,24,Yes,No,Fiber optic,No,No,No,No,No,Yes,One year,Yes,Electronic check,0.85,4557.5,0
+Male,0,No,No,15,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.41,5364.8,0
+Male,0,Yes,Yes,34,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.49,4478.85,0
+Female,0,Yes,Yes,19,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),0.77,5824.75,0
+Male,1,No,No,16,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.09,3645.6,0
+Female,1,No,No,4,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,0.85,6293.45,0
+Female,0,Yes,Yes,45,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),0.01,5598.3,0
+Male,0,Yes,Yes,20,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,One year,No,Electronic check,0.06,5918.8,1
+Female,0,Yes,Yes,24,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.08,125.5,0
+Male,0,No,No,44,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.74,1242.2,0
+Female,0,Yes,Yes,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,0.76,394.85,0
+Male,0,No,No,19,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.62,1135.7,1
+Male,0,Yes,Yes,12,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.48,269.65,0
+Female,0,No,No,35,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,0.08,247.25,1
+Female,0,No,No,39,Yes,No,DSL,Yes,Yes,No,No,No,No,Two year,No,Credit card (automatic),0.46,2627.35,0
+Male,0,Yes,Yes,1,Yes,No,DSL,Yes,No,Yes,Yes,Yes,No,Two year,No,Mailed check,0.69,4447.75,0
+Female,0,Yes,Yes,17,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,0.53,1978.65,0
+Female,0,No,No,43,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.68,1049.05,0
+Male,0,Yes,Yes,8,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.95,3845.45,0
+Male,0,No,No,43,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.17,5450.7,0
+Male,1,Yes,No,1,Yes,Yes,DSL,No,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),0.97,5329.0,0
+Female,0,No,Yes,39,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.53,321.05,0
+Female,0,Yes,Yes,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.62,62.9,0
+Male,0,Yes,Yes,18,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.39,6741.15,0
+Female,0,No,No,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,0.51,4759.85,1
+Male,0,No,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.22,1672.1,0
+Male,0,Yes,Yes,32,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),0.12,190.05,1
+Male,0,No,No,19,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,0.96,4669.2,0
+Male,0,Yes,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.42,7567.2,0
+Male,0,No,No,46,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.66,1734.2,0
+Female,0,No,No,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.37,620.75,0
+Female,1,No,No,31,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.73,446.05,1
+Female,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),0.6,2462.55,0
+Male,0,No,No,25,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),0.59,445.95,0
+Female,0,No,No,40,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.42,49.95,1
+Male,0,No,No,12,Yes,No,DSL,No,No,No,Yes,Yes,No,One year,No,Credit card (automatic),0.63,1507.0,0
+Female,0,Yes,No,24,Yes,No,DSL,No,No,Yes,Yes,No,No,Month-to-month,No,Electronic check,0.31,1221.55,0
+Female,0,Yes,No,42,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),0.74,7589.8,0
+Female,0,No,No,11,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.16,567.45,1
+Female,0,Yes,Yes,9,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.05,485.9,0
+Male,0,No,No,6,No,No phone service,DSL,Yes,Yes,Yes,No,No,No,One year,No,Mailed check,0.15,373.0,0
+Male,0,No,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,One year,Yes,Bank transfer (automatic),0.73,2597.6,1
+Male,0,Yes,No,29,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),0.81,5706.2,0
+Male,1,Yes,No,44,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.73,7318.2,1
+Female,0,Yes,Yes,34,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.87,2369.3,0
+Female,0,Yes,Yes,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.34,1255.1,0
+Female,1,No,No,37,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.72,3734.25,1
+Female,0,No,No,45,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.44,1618.2,0
+Male,0,Yes,No,16,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,0.0,1181.75,0
+Male,0,No,No,24,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0.56,1323.7,0
+Male,0,No,No,16,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.45,1597.25,1
+Female,0,Yes,No,29,Yes,Yes,DSL,Yes,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.91,1742.75,1
+Male,0,Yes,Yes,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.52,267.35,0
+Female,0,Yes,Yes,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.24,20.0,0
+Male,0,Yes,No,41,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,0.06,5536.5,0
+Female,0,No,No,2,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.97,4539.6,0
+Female,0,No,No,15,Yes,No,DSL,Yes,Yes,No,Yes,No,No,One year,Yes,Credit card (automatic),0.91,2796.45,0
+Female,0,No,No,37,Yes,No,DSL,No,No,No,No,Yes,No,Month-to-month,Yes,Mailed check,0.48,53.55,1
+Female,0,Yes,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.67,154.8,0
+Female,0,No,No,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.82,1505.05,0
+Male,0,Yes,Yes,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,0.15,505.45,0
+Female,0,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),0.61,3532.25,0
+Male,0,No,No,32,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.26,45.75,1
+Male,1,No,No,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),0.35,2275.1,0
+Male,0,No,No,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.71,19.4,1
+Male,0,Yes,No,41,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,0.78,5253.95,0
+Male,0,No,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,0.96,682.15,0
+Female,1,No,No,21,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.1,1147.45,1
+Female,0,No,No,3,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.86,5127.95,1
+Male,1,Yes,No,35,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,No,One year,Yes,Mailed check,0.53,6066.55,0
+Male,0,Yes,No,25,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,0.04,1785.65,0
+Female,0,Yes,Yes,40,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0.63,3107.3,0
+Female,0,Yes,No,7,Yes,No,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.37,3168.0,0
+Female,0,No,No,6,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.94,531.15,0
+Male,1,No,No,43,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.58,47.5,1
+Female,0,Yes,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.78,805.2,0
+Female,0,No,No,30,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.13,212.4,0
+Female,0,No,No,50,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,No,Mailed check,0.6,1115.15,1
+Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.57,324.6,1
+Female,0,Yes,Yes,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.29,1057.0,0
+Female,1,Yes,No,37,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.18,810.7,1
+Male,1,No,No,46,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,One year,Yes,Electronic check,0.47,4374.55,0
+Male,0,No,No,8,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,One year,No,Electronic check,0.35,4576.3,0
+Female,0,No,No,24,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.28,515.45,0
+Male,0,No,No,4,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.06,2686.05,0
+Female,0,No,No,49,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.4,70.1,1
+Female,0,No,No,35,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.99,669.45,1
+Female,0,Yes,Yes,6,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.82,5717.85,0
+Female,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.8,247.0,0
+Male,1,Yes,Yes,17,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,No,Electronic check,0.11,5969.3,0
+Female,0,Yes,No,11,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.75,3046.05,1
+Male,0,No,No,40,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.98,593.45,1
+Female,0,Yes,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.25,804.25,0
+Male,0,Yes,Yes,13,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.61,930.05,0
+Female,0,Yes,Yes,1,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),0.19,5959.3,0
+Male,0,Yes,Yes,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.08,8152.3,0
+Female,0,No,No,48,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.17,3416.85,0
+Female,0,No,No,44,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.23,84.6,0
+Female,1,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.29,1973.75,1
+Male,0,Yes,Yes,44,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Credit card (automatic),0.48,4973.4,0
+Female,0,No,No,32,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.31,1815.65,0
+Female,0,No,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.08,827.3,0
+Male,1,No,No,1,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.03,2743.45,0
+Male,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.34,625.05,0
+Male,0,No,Yes,19,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.9,7882.5,0
+Female,0,No,No,49,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.76,654.5,0
+Female,0,No,Yes,2,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),0.27,3077.0,0
+Male,1,Yes,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.48,467.55,1
+Male,0,No,No,14,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,Yes,Electronic check,0.78,3357.9,0
+Female,0,Yes,Yes,45,Yes,No,DSL,Yes,No,No,Yes,Yes,No,One year,No,Mailed check,0.4,4068.0,0
+Male,0,Yes,No,34,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.39,90.75,1
+Male,0,Yes,No,19,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.7,1110.05,0
+Female,0,Yes,No,33,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,0.19,3673.15,0
+Female,0,No,No,35,Yes,No,Fiber optic,No,Yes,No,No,No,No,One year,Yes,Mailed check,0.68,966.25,0
+Male,1,No,No,15,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.35,69.5,1
+Female,0,No,No,12,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.72,1639.3,1
+Female,0,No,No,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.44,19.65,1
+Male,0,No,No,50,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.43,1490.4,0
+Female,0,Yes,Yes,44,Yes,Yes,DSL,Yes,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),0.27,4254.1,0
+Male,0,No,No,35,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.69,605.75,0
+Female,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),0.88,187.75,0
+Male,0,No,No,30,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.86,1234.6,0
+Male,0,Yes,No,22,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.23,4297.95,0
+Female,0,Yes,Yes,47,Yes,Yes,DSL,Yes,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),0.39,3273.95,0
+Female,0,Yes,Yes,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.13,60.65,0
+Male,0,No,No,15,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.96,6125.4,1
+Male,0,No,No,35,Yes,Yes,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.87,2272.8,0
+Female,0,No,No,33,No,No phone service,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.93,1277.5,0
+Male,0,Yes,Yes,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.19,255.5,0
+Male,0,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.09,309.35,0
+Female,0,Yes,Yes,2,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),0.4,1216.6,0
+Female,1,Yes,Yes,50,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.39,6891.45,0
+Female,0,No,No,39,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.91,1183.05,0
+Female,0,No,No,29,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.88,41.2,0
+Female,0,No,No,26,No,No phone service,DSL,No,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,0.03,607.3,0
+Female,0,Yes,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.65,252.75,0
+Male,0,Yes,No,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Electronic check,0.78,899.45,0
+Male,0,Yes,Yes,12,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,0.32,1848.8,0
+Male,0,No,No,43,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.26,44.3,0
+Female,1,No,No,23,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.58,1765.95,0
+Male,0,Yes,No,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),0.09,7317.1,0
+Male,0,Yes,Yes,42,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),0.89,3363.8,0
+Female,0,No,No,4,Yes,No,DSL,Yes,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),0.31,3282.75,0
+Female,1,Yes,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.72,20.85,1
+Female,0,No,No,35,Yes,No,DSL,No,Yes,Yes,Yes,Yes,No,Two year,No,Mailed check,0.07,3894.4,0
+Male,0,No,No,20,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Mailed check,0.68,1230.25,1
+Female,1,No,No,41,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.48,567.8,0
+Female,1,Yes,No,11,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),0.2,6129.65,0
+Female,0,No,No,1,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.43,512.45,1
+Female,0,Yes,No,8,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),0.56,3126.85,0
+Male,0,Yes,Yes,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,0.89,250.8,0
+Female,0,Yes,Yes,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.34,756.4,0
+Male,0,No,No,47,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.22,84.5,1
+Male,0,Yes,Yes,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.01,1414.65,0
+Male,0,Yes,No,12,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.22,438.0,1
+Female,0,Yes,Yes,21,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.37,3590.2,0
+Male,0,Yes,Yes,38,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Electronic check,0.27,385.9,1
+Male,1,Yes,No,35,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.28,5376.4,0
+Male,0,Yes,Yes,16,Yes,Yes,DSL,No,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),0.6,1825.5,0
+Female,0,No,No,27,Yes,No,DSL,No,No,Yes,No,No,Yes,One year,No,Credit card (automatic),0.39,3503.5,0
+Female,1,Yes,Yes,12,No,No phone service,DSL,No,Yes,Yes,No,No,No,Month-to-month,Yes,Mailed check,0.5,1025.15,0
+Female,0,No,No,8,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.46,90.55,1
+Male,0,Yes,No,16,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.26,2391.8,1
+Female,1,No,No,2,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,0.04,1545.4,0
+Female,1,No,No,46,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.29,78.65,1
+Male,0,Yes,No,33,Yes,Yes,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.83,1742.95,1
+Male,0,No,No,48,No,No phone service,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.47,438.25,1
+Male,0,No,No,17,No,No phone service,DSL,No,No,Yes,Yes,No,No,One year,No,Mailed check,0.89,1309.15,0
+Male,0,Yes,Yes,42,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Electronic check,0.41,4016.3,0
+Female,0,Yes,No,23,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),0.87,3370.2,0
+Male,0,Yes,Yes,27,Yes,No,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Credit card (automatic),0.15,4375.8,0
+Female,0,Yes,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.53,1416.5,0
+Female,0,No,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.87,266.9,1
+Male,0,Yes,Yes,48,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),0.79,3457.45,0
+Female,0,No,No,36,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.21,319.6,0
+Female,1,Yes,No,2,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.23,7629.85,0
+Male,0,Yes,No,43,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,No,Mailed check,0.55,4808.7,0
+Female,0,Yes,No,18,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.53,7881.2,0
+Male,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.01,739.9,0
+Male,0,No,No,22,Yes,No,DSL,No,No,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),0.41,1093.2,0
+Male,0,Yes,Yes,17,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,0.66,432.25,0
+Male,0,No,No,26,Yes,No,Fiber optic,Yes,No,No,No,No,Yes,Month-to-month,Yes,Mailed check,0.96,244.85,0
+Female,1,No,No,46,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.79,346.2,1
+Male,0,Yes,Yes,5,Yes,No,DSL,No,No,Yes,No,No,No,One year,No,Mailed check,0.12,1285.8,0
+Female,0,No,No,7,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.42,293.15,0
+Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.21,370.65,1
+Female,0,No,No,6,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.76,45.3,0
+Male,0,No,No,6,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,0.03,49.05,0
+Female,0,No,No,38,Yes,No,DSL,No,No,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.67,1646.45,0
+Female,0,Yes,No,26,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.41,1887.0,0
+Male,0,No,No,46,No,No phone service,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,0.92,44.65,1
+Male,0,Yes,Yes,31,Yes,Yes,DSL,Yes,No,No,No,No,No,Month-to-month,No,Mailed check,0.18,113.55,1
+Female,0,Yes,Yes,21,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.18,821.6,0
+Female,0,No,No,36,Yes,No,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),0.01,3264.5,1
+Female,0,Yes,Yes,44,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.28,274.7,0
+Male,0,No,No,22,No,No phone service,DSL,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,0.28,255.25,1
+Male,0,Yes,Yes,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.4,436.9,0
+Female,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.84,1419.4,0
+Female,0,Yes,Yes,27,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.5,873.4,0
+Female,0,No,No,35,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.23,69.6,1
+Female,1,No,No,34,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.66,2419.0,0
+Male,0,Yes,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.66,851.2,0
+Female,0,Yes,Yes,39,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.48,31.9,0
+Female,0,Yes,Yes,2,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Mailed check,0.65,5430.65,0
+Male,0,Yes,No,48,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,0.46,890.6,1
+Female,0,Yes,No,28,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.95,6953.4,0
+Female,0,No,Yes,42,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.98,2715.3,0
+Male,0,No,Yes,38,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.56,49.85,0
+Male,0,Yes,Yes,27,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.43,284.9,0
+Male,0,Yes,Yes,33,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.13,477.55,1
+Female,0,No,No,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,0.39,962.25,0
+Male,0,No,No,30,Yes,No,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.1,167.3,1
+Female,0,Yes,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.73,141.45,1
+Female,0,No,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.79,775.6,0
+Female,0,No,No,7,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.41,85.0,1
+Male,0,No,No,18,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.73,6876.05,1
+Female,0,No,No,41,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.64,3527.6,1
+Female,0,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.14,741.5,0
+Male,0,No,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.19,58.15,1
+Female,0,Yes,Yes,4,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),0.26,3923.8,0
+Female,1,Yes,No,29,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,One year,No,Bank transfer (automatic),0.23,6430.9,0
+Male,0,Yes,Yes,38,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,0.41,2909.95,0
+Female,0,No,No,44,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Electronic check,0.76,3201.55,1
+Male,1,No,No,23,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.46,6382.55,0
+Female,0,Yes,Yes,48,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0.87,1155.6,0
+Female,1,No,No,8,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.95,1094.5,1
+Male,0,Yes,Yes,26,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.45,6339.3,0
+Male,0,No,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.04,20.3,0
+Female,0,Yes,Yes,48,No,No phone service,DSL,No,Yes,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),0.81,2264.5,0
+Male,0,Yes,Yes,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.55,70.65,1
+Male,0,Yes,No,28,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.16,7806.5,0
+Female,0,No,No,36,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.65,4526.85,0
+Male,0,No,No,41,Yes,No,DSL,Yes,Yes,No,No,No,No,One year,No,Mailed check,0.59,946.95,0
+Male,0,Yes,Yes,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.54,18.8,0
+Female,0,No,No,29,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,0.82,3914.05,0
+Male,1,No,No,10,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.5,71.65,1
+Male,0,Yes,No,49,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),0.14,668.85,0
+Male,0,No,No,7,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.77,4981.15,0
+Male,0,No,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.33,705.45,0
+Female,0,No,No,17,Yes,No,DSL,No,Yes,Yes,No,No,No,One year,No,Bank transfer (automatic),0.12,1327.85,0
+Female,0,No,No,26,Yes,No,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.44,4509.5,0
+Female,1,Yes,No,31,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.42,3949.15,0
+Male,0,Yes,Yes,49,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.85,3782.4,0
+Male,0,No,No,41,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.06,74.25,1
+Female,0,No,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.27,1386.9,0
+Male,1,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.44,1036.75,1
+Female,0,Yes,No,14,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,No,Bank transfer (automatic),0.94,5763.3,1
+Female,0,Yes,No,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.93,780.2,0
+Female,1,Yes,No,21,Yes,Yes,DSL,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.76,5265.1,1
+Female,0,Yes,Yes,6,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,0.73,1460.65,1
+Male,0,Yes,Yes,20,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.07,6004.85,0
+Male,0,No,No,39,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,0.64,50.8,1
+Male,0,Yes,No,25,Yes,No,Fiber optic,No,No,No,Yes,No,No,Month-to-month,No,Bank transfer (automatic),0.9,2065.4,0
+Female,0,Yes,No,9,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.5,1672.1,0
+Male,0,Yes,Yes,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.96,34.75,0
+Female,0,No,No,30,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),0.87,2656.3,0
+Female,0,Yes,Yes,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.41,558.8,0
+Female,0,No,No,38,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.52,4282.4,0
+Female,0,No,No,5,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.38,45.3,1
+Male,0,No,No,33,No,No phone service,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.36,425.1,0
+Female,0,Yes,No,44,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),0.44,7556.9,0
+Male,1,Yes,No,49,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.65,2231.05,1
+Female,0,Yes,No,3,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,Two year,Yes,Electronic check,0.84,3580.95,0
+Female,1,No,No,20,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.21,1806.35,0
+Female,0,No,No,31,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.25,163.2,0
+Female,0,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.47,246.25,0
+Female,0,Yes,Yes,1,Yes,No,DSL,No,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),0.73,957.1,0
+Male,0,No,No,41,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.83,3017.65,1
+Male,0,Yes,Yes,16,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.11,1738.9,0
+Male,0,Yes,Yes,21,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.71,1718.2,0
+Male,0,Yes,No,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.96,1940.85,0
+Female,0,No,No,35,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.2,7107.0,0
+Male,0,No,No,36,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),0.23,201.1,1
+Male,1,No,No,50,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.21,1842.8,1
+Female,0,No,No,31,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.7,229.7,0
+Male,0,No,Yes,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.32,20.75,0
+Female,0,No,No,5,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,Yes,Bank transfer (automatic),0.33,267.35,1
+Female,1,No,No,4,No,No phone service,DSL,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.94,3094.05,0
+Female,1,No,No,16,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),0.06,7238.6,0
+Female,0,No,No,15,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.77,3756.4,0
+Male,1,No,No,7,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.63,449.75,1
+Female,0,No,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),0.83,238.15,0
+Female,0,Yes,No,29,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.93,6506.15,0
+Male,0,Yes,Yes,28,No,No phone service,DSL,Yes,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0.72,610.2,0
+Male,0,No,No,30,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,0.22,1461.45,0
+Male,1,Yes,No,34,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.56,1237.85,1
+Female,1,No,No,19,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.76,69.65,1
+Male,0,Yes,Yes,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.31,1301.1,0
+Female,0,No,No,29,Yes,No,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.78,3618.7,0
+Male,0,Yes,Yes,42,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),0.69,4855.35,0
+Male,1,Yes,No,40,Yes,No,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.24,1527.5,1
+Female,0,No,No,1,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),0.31,1302.65,0
+Male,0,Yes,Yes,29,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.56,868.5,1
+Male,1,Yes,No,48,No,No phone service,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),0.06,971.3,1
+Male,0,No,No,20,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.23,1192.3,0
+Female,0,No,Yes,36,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.53,79.35,1
+Female,1,No,No,25,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,0.7,5206.55,0
+Female,1,No,No,21,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.89,503.6,1
+Female,0,No,No,32,Yes,Yes,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.06,1679.4,0
+Male,0,Yes,No,1,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.56,521.9,0
+Male,0,No,No,20,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.58,453.4,1
+Male,0,No,Yes,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),0.98,928.4,0
+Male,0,Yes,No,18,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,0.8,5878.9,0
+Male,0,No,No,8,Yes,No,DSL,No,No,No,Yes,No,No,Two year,No,Bank transfer (automatic),0.27,3260.1,0
+Male,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.14,181.8,0
+Male,0,Yes,No,5,Yes,No,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.17,167.5,1
+Male,0,No,Yes,15,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.7,1334.5,0
+Female,0,No,No,37,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.55,552.95,1
+Female,1,Yes,No,37,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.64,1929.35,1
+Female,0,Yes,Yes,35,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.66,3124.5,1
+Female,0,No,No,8,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0.82,226.95,0
+Female,0,Yes,No,12,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.47,1871.85,0
+Female,1,No,No,34,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.71,1096.25,1
+Female,0,No,No,21,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.84,7624.2,0
+Male,1,No,No,27,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Electronic check,0.59,7108.2,0
+Female,0,No,No,39,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.45,367.55,0
+Female,0,Yes,No,14,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.12,2624.25,1
+Female,0,No,No,20,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,One year,No,Credit card (automatic),0.36,4475.9,0
+Male,0,Yes,Yes,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.25,400.0,0
+Female,0,Yes,Yes,6,Yes,No,Fiber optic,No,No,Yes,No,No,No,Two year,No,Electronic check,0.81,5436.45,0
+Female,0,No,No,3,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Mailed check,0.93,7737.55,0
+Female,0,Yes,Yes,50,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.56,7711.45,0
+Female,1,Yes,No,33,No,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.22,1637.4,1
+Male,0,Yes,No,27,Yes,Yes,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),0.95,4804.65,0
+Female,1,No,No,27,Yes,No,Fiber optic,Yes,No,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,0.24,1426.75,1
+Male,0,Yes,No,42,Yes,No,DSL,Yes,Yes,Yes,No,Yes,Yes,One year,No,Bank transfer (automatic),0.67,3597.5,0
+Male,0,No,Yes,36,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.42,2001.5,1
+Male,0,Yes,Yes,33,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),0.36,845.6,0
+Male,0,No,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.88,369.05,0
+Female,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.69,161.65,0
+Female,0,Yes,Yes,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.18,1411.2,0
+Male,0,Yes,Yes,2,Yes,Yes,DSL,No,No,No,Yes,No,No,One year,Yes,Mailed check,0.96,1466.1,0
+Female,1,No,No,6,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.3,5409.75,0
+Male,0,No,No,39,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,0.29,500.1,0
+Female,0,Yes,No,17,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Bank transfer (automatic),0.13,3478.75,0
+Female,1,Yes,No,47,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.14,2838.55,0
+Male,0,Yes,Yes,14,Yes,No,DSL,Yes,No,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.56,3966.3,0
+Female,1,Yes,No,49,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.37,302.6,0
+Female,0,Yes,No,4,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.6,4504.9,0
+Male,0,No,No,39,No,No phone service,DSL,No,No,No,No,No,No,One year,Yes,Credit card (automatic),0.72,150.85,0
+Female,0,No,Yes,26,Yes,No,DSL,Yes,No,Yes,No,No,Yes,One year,No,Mailed check,0.69,1336.8,0
+Male,0,No,No,42,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,0.76,3418.2,0
+Male,0,No,No,17,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.64,713.0,1
+Male,0,No,No,1,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,0.85,901.25,0
+Male,0,No,No,31,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,One year,No,Electronic check,0.84,3219.75,0
+Male,0,No,No,24,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.79,6692.65,0
+Male,0,No,No,43,Yes,No,DSL,Yes,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.94,354.05,1
+Male,0,No,No,9,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,One year,No,Credit card (automatic),0.37,1964.6,0
+Female,0,Yes,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.22,1225.65,0
+Male,0,No,No,39,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,0.07,61.45,0
+Male,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.76,71.55,1
+Male,1,Yes,Yes,11,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,One year,Yes,Bank transfer (automatic),0.81,5125.75,0
+Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.55,69.35,1
+Male,0,No,No,17,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.22,44.8,0
+Male,0,No,Yes,49,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.76,2180.55,1
+Female,1,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,0.16,19.45,1
+Male,0,No,No,41,No,No phone service,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),0.02,3442.8,0
+Male,0,Yes,Yes,8,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,No,Electronic check,0.43,6300.85,0
+Female,0,Yes,Yes,15,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.03,4600.95,0
+Female,0,Yes,Yes,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.11,1326.25,0
+Female,0,No,No,30,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.45,317.25,1
+Male,0,No,No,23,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Electronic check,0.86,245.15,0
+Female,0,Yes,Yes,29,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,No,No,Two year,Yes,Bank transfer (automatic),0.11,6563.4,0
+Male,0,No,No,38,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.83,238.5,0
+Female,0,No,No,26,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.39,3615.6,1
+Male,0,Yes,Yes,11,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.16,4451.85,0
+Male,1,Yes,No,20,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.92,6017.9,0
+Male,0,No,No,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.63,2979.5,1
+Female,0,Yes,No,22,Yes,No,Fiber optic,Yes,No,No,Yes,Yes,Yes,Two year,Yes,Electronic check,0.46,5611.75,0
+Male,0,No,No,4,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,0.09,608.0,1
+Female,0,Yes,Yes,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.2,1685.9,0
+Female,0,Yes,Yes,16,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.03,2640.55,0
+Male,1,Yes,No,19,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Electronic check,0.81,475.0,0
+Female,0,No,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.5,34.8,0
+Female,0,Yes,No,45,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.03,1121.05,0
+Male,0,Yes,Yes,11,Yes,No,Fiber optic,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),0.52,2649.15,1
+Male,0,Yes,No,15,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.42,3013.05,1
+Female,0,Yes,Yes,34,Yes,No,Fiber optic,Yes,Yes,No,Yes,No,No,Month-to-month,No,Mailed check,0.83,1936.85,0
+Female,0,Yes,Yes,44,Yes,Yes,DSL,Yes,Yes,No,No,Yes,No,Two year,Yes,Credit card (automatic),0.14,4872.35,0
+Female,1,Yes,No,25,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,Two year,Yes,Electronic check,0.98,8046.85,0
+Male,0,No,No,5,Yes,No,DSL,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),0.59,4698.05,0
+Female,0,No,Yes,44,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,0.31,1093.1,1
+Male,0,Yes,Yes,28,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,Yes,Mailed check,0.71,5714.25,0
+Male,1,Yes,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.17,204.55,0
+Male,0,Yes,Yes,26,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),0.48,5791.85,0
+Male,0,Yes,Yes,21,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,One year,Yes,Bank transfer (automatic),0.84,5696.6,0
+Female,0,Yes,Yes,4,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,No,Mailed check,0.95,4630.2,0
+Male,0,Yes,Yes,45,Yes,No,Fiber optic,No,No,Yes,No,Yes,No,One year,Yes,Electronic check,0.5,3355.65,0
+Female,0,No,No,12,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),0.06,3327.05,0
+Male,0,Yes,No,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.41,483.15,0
+Female,0,No,No,48,Yes,Yes,DSL,Yes,Yes,No,No,No,No,Two year,No,Bank transfer (automatic),0.54,4265.0,0
+Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.16,1066.9,0
+Female,0,Yes,No,1,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.24,292.85,1
+Female,0,Yes,Yes,17,No,No phone service,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),0.28,1025.15,0
+Female,1,No,No,35,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),0.33,287.85,0
+Male,0,Yes,Yes,23,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.25,613.95,0
+Female,0,No,No,20,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,One year,Yes,Electronic check,0.81,5755.8,0
+Female,1,No,No,39,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),0.04,7748.75,0
+Male,0,No,No,3,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.93,69.35,1
+Female,0,No,Yes,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.67,531.55,0
+Male,0,Yes,Yes,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.5,7007.6,1
+Male,0,Yes,No,22,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.64,4113.1,1
+Male,0,Yes,No,4,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,0.55,564.4,0
+Female,0,Yes,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.52,5073.1,0
+Female,0,No,No,9,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),1.0,679.8,0
+Female,0,Yes,Yes,27,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Credit card (automatic),0.83,3346.8,0
+Female,0,Yes,Yes,25,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.49,6256.2,0
+Female,0,Yes,No,10,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.78,6468.6,0
+Female,0,No,No,8,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Credit card (automatic),0.15,2455.05,0
+Male,0,Yes,Yes,47,Yes,Yes,DSL,No,Yes,Yes,No,Yes,No,One year,No,Bank transfer (automatic),0.2,2839.95,0
+Male,1,Yes,No,43,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.16,1233.65,1
+Male,0,Yes,Yes,28,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,No,Electronic check,0.7,1400.85,1
+Female,0,No,No,33,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.65,5321.25,0
+Male,0,Yes,Yes,37,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.72,609.05,0
+Male,0,Yes,No,17,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.09,4014.6,0
+Female,0,No,No,34,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.93,3721.9,0
+Male,0,Yes,Yes,13,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.31,1107.25,1
+Female,0,Yes,No,23,Yes,Yes,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Bank transfer (automatic),0.44,4804.75,0
+Female,0,No,No,29,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Electronic check,0.02,308.25,1
+Male,0,No,No,3,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.89,1558.7,0
+Male,0,Yes,No,42,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.69,4065.0,1
+Female,0,No,No,29,Yes,Yes,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.82,1739.6,0
+Female,0,No,No,16,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.2,71.2,0
+Male,0,Yes,No,35,No,No phone service,DSL,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,0.65,836.35,0
+Female,0,No,No,22,Yes,Yes,DSL,Yes,Yes,Yes,No,Yes,Yes,Two year,No,Mailed check,0.01,5991.05,0
+Female,0,Yes,No,49,Yes,No,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.12,1706.45,0
+Female,1,Yes,No,34,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),0.13,5895.45,0
+Female,0,No,No,47,Yes,No,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.32,168.5,0
+Female,0,Yes,No,11,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.8,7240.65,0
+Male,0,No,No,11,Yes,No,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Credit card (automatic),0.15,1398.6,0
+Male,0,Yes,Yes,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.54,343.6,0
+Male,0,Yes,Yes,4,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.44,45.85,1
+Male,0,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.92,419.9,0
+Male,0,No,No,33,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Electronic check,0.94,818.45,0
+Male,0,No,Yes,7,Yes,Yes,DSL,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.74,1083.7,0
+Male,0,No,No,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.04,1240.15,0
+Male,0,Yes,No,10,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No,Two year,No,Credit card (automatic),0.37,5357.75,0
+Female,0,Yes,No,45,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.09,6520.8,0
+Male,0,No,Yes,12,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,0.62,1242.45,0
+Female,0,No,No,35,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.56,76.0,1
+Female,1,No,No,47,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),0.92,4126.35,0
+Male,0,Yes,No,20,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.33,451.1,1
+Male,0,Yes,Yes,17,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,One year,No,Credit card (automatic),0.48,2453.3,0
+Male,1,No,No,7,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.42,606.55,1
+Female,1,Yes,No,48,Yes,No,Fiber optic,Yes,Yes,No,No,No,Yes,One year,No,Credit card (automatic),0.92,6055.55,0
+Female,0,No,No,44,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Two year,No,Mailed check,0.53,3510.3,0
+Female,0,No,Yes,24,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.92,390.85,1
+Female,0,No,No,42,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.4,58.85,1
+Female,1,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.56,1145.7,1
+Male,0,No,No,43,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),0.75,3899.05,0
+Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,0.86,887.35,0
+Female,1,Yes,No,18,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.31,3545.05,0
+Male,0,Yes,No,48,Yes,No,DSL,Yes,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),0.67,1374.35,0
+Female,0,No,No,13,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.5,888.65,0
+Male,0,Yes,No,41,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),0.07,486.2,0
+Male,0,Yes,Yes,14,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,0.94,6547.7,1
+Female,0,No,No,7,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.24,553.0,0
+Male,0,Yes,Yes,1,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.18,5305.05,0
+Male,0,Yes,Yes,44,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Credit card (automatic),0.34,74.6,0
+Male,0,Yes,No,21,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Electronic check,0.39,6890.0,1
+Female,0,Yes,Yes,31,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.99,1784.5,0
+Female,1,No,No,5,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.74,25.05,1
+Female,0,No,No,23,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Credit card (automatic),0.41,147.15,1
+Male,0,Yes,No,10,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.31,2964.05,0
+Female,0,Yes,Yes,43,No,No phone service,DSL,No,Yes,No,No,Yes,No,Month-to-month,No,Electronic check,0.27,849.9,0
+Male,0,No,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.0,60.65,0
+Male,0,Yes,No,6,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,No,Two year,Yes,Bank transfer (automatic),0.5,3789.2,0
+Female,0,No,No,50,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.01,501.35,0
+Female,0,Yes,Yes,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),0.45,543.8,0
+Male,0,No,No,42,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.74,1699.15,0
+Male,0,No,Yes,39,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.2,24.75,1
+Male,0,Yes,Yes,38,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.12,197.4,0
+Male,0,Yes,Yes,18,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Bank transfer (automatic),0.78,5264.5,0
+Female,1,No,No,3,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.55,73.0,1
+Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.57,1993.25,0
+Female,0,Yes,Yes,47,Yes,No,Fiber optic,No,Yes,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.29,241.3,0
+Male,0,Yes,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.64,6448.05,1
+Male,0,No,No,39,Yes,No,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.0,669.0,1
+Male,0,No,No,2,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.51,401.85,0
+Female,1,Yes,Yes,38,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.26,1346.3,0
+Female,0,Yes,Yes,22,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.57,202.3,0
+Male,0,No,Yes,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.09,1189.9,0
+Female,0,Yes,No,5,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.98,6039.9,1
+Female,0,No,No,15,No,No phone service,DSL,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.32,62.25,1
+Female,0,No,Yes,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.07,970.85,0
+Female,0,No,No,47,Yes,No,DSL,No,Yes,No,Yes,No,No,Month-to-month,Yes,Mailed check,0.06,1439.35,0
+Male,0,No,No,49,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.65,473.9,0
+Female,0,Yes,Yes,43,Yes,Yes,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.91,349.8,0
+Male,0,No,No,11,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),0.5,996.45,0
+Male,0,No,No,41,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.16,553.4,0
+Male,0,No,No,2,No,No phone service,DSL,Yes,Yes,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.84,4176.7,0
+Male,0,No,No,29,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,No,One year,No,Credit card (automatic),0.89,6590.8,0
+Female,0,No,No,50,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Two year,No,Electronic check,0.73,5655.45,0
+Male,0,No,No,39,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.76,3626.1,1
+Female,0,Yes,Yes,47,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.97,309.25,0
+Female,0,No,No,46,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.96,122.7,0
+Female,0,Yes,No,37,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.74,780.1,0
+Female,0,Yes,Yes,18,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.99,1857.85,0
+Male,0,Yes,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Electronic check,0.1,1013.2,0
+Male,0,Yes,No,6,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.68,3582.4,0
+Female,1,No,No,9,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.96,7774.05,0
+Female,0,No,No,15,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.34,6744.25,0
+Female,1,Yes,No,11,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.29,4367.35,1
+Male,0,Yes,No,22,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.06,7320.9,0
+Female,0,No,No,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),0.99,478.1,0
+Female,1,No,No,35,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.37,3580.3,1
+Male,1,No,No,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),0.53,429.55,0
+Male,0,Yes,No,24,Yes,No,DSL,Yes,Yes,No,Yes,Yes,No,One year,No,Credit card (automatic),0.0,4448.8,0
+Female,0,No,No,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,0.14,42.45,0
+Female,0,Yes,Yes,46,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.08,434.8,0
+Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.22,5916.45,1
+Female,0,No,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.82,639.65,1
+Male,0,Yes,No,43,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,One year,Yes,Credit card (automatic),0.16,3420.5,0
+Male,1,Yes,No,38,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Bank transfer (automatic),0.14,1501.75,0
+Male,0,No,Yes,46,No,No phone service,DSL,No,Yes,No,No,No,No,Month-to-month,Yes,Mailed check,0.2,31.35,1
+Female,0,No,No,17,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),0.63,217.55,1
+Male,0,No,No,3,Yes,No,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.49,4534.45,0
+Male,0,Yes,No,7,Yes,No,DSL,Yes,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,0.04,1152.7,1
+Female,0,No,No,16,Yes,Yes,DSL,No,Yes,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.46,6350.5,0
+Male,1,Yes,No,15,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.75,3132.75,1
+Female,0,Yes,Yes,9,Yes,No,DSL,Yes,No,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),0.72,3871.85,0
+Female,0,No,No,7,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.61,19.55,0
+Male,0,Yes,Yes,36,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.83,1688.9,0
+Female,0,No,No,2,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.6,523.15,1
+Male,1,No,No,45,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Credit card (automatic),0.49,7839.85,0
+Female,1,No,No,48,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,No,Mailed check,0.21,202.9,0
+Female,0,Yes,No,35,Yes,No,DSL,Yes,Yes,No,Yes,No,Yes,Month-to-month,Yes,Mailed check,0.58,1837.7,0
+Female,0,No,No,33,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.86,137.1,0
+Male,0,No,No,3,Yes,No,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.27,2979.3,0
+Female,0,No,No,20,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.23,321.65,1
+Male,0,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.52,469.8,1
+Female,0,Yes,Yes,14,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.77,8672.45,0
+Male,0,Yes,Yes,47,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.12,903.8,0
+Female,1,Yes,No,43,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.78,2869.85,1
+Female,0,No,Yes,41,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Month-to-month,No,Credit card (automatic),0.71,188.1,0
+Male,1,Yes,No,16,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Month-to-month,Yes,Electronic check,0.31,856.65,1
+Female,0,Yes,No,10,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.08,41.85,0
+Male,0,Yes,No,3,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,No,Mailed check,0.66,6033.1,0
+Female,0,Yes,No,27,Yes,Yes,Fiber optic,No,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,0.51,743.75,0
+Male,0,No,Yes,21,Yes,No,DSL,Yes,Yes,Yes,No,Yes,No,One year,No,Mailed check,0.6,2894.55,0
+Female,0,No,No,47,No,No phone service,DSL,Yes,Yes,Yes,Yes,No,No,Two year,Yes,Bank transfer (automatic),0.94,3058.15,0
+Female,0,No,No,21,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),0.85,2072.75,0
+Female,0,Yes,No,13,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.29,1614.9,0
+Male,0,Yes,No,18,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.12,1504.05,1
+Female,0,No,No,4,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.51,174.8,1
+Male,0,No,No,18,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.98,7262.0,1
+Female,0,No,Yes,29,Yes,No,Fiber optic,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,0.41,78.65,1
+Male,1,Yes,Yes,27,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.41,5683.6,0
+Female,0,No,No,40,No,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,One year,No,Electronic check,0.86,743.3,0
+Female,0,No,Yes,25,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.1,1275.65,0
+Male,0,Yes,Yes,14,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,0.97,3091.75,0
+Male,0,Yes,Yes,43,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.98,1974.8,1
+Female,0,No,No,36,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,0.77,4921.2,0
+Female,0,Yes,Yes,34,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.04,3557.7,0
+Male,0,Yes,No,17,No,No phone service,DSL,Yes,No,No,Yes,No,No,Month-to-month,No,Mailed check,0.2,101.1,0
+Male,0,No,No,2,No,No phone service,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.49,4566.5,0
+Female,0,Yes,Yes,16,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.77,3875.4,0
+Male,0,No,No,45,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,0.53,257.0,0
+Male,0,Yes,Yes,13,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.38,7665.8,0
+Female,0,Yes,Yes,8,Yes,No,DSL,Yes,No,No,No,Yes,Yes,One year,Yes,Bank transfer (automatic),0.73,3913.3,1
+Female,0,Yes,Yes,28,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.04,1764.75,0
+Female,1,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Electronic check,0.11,7112.15,0
+Female,0,No,No,48,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.9,1093.0,0
+Male,0,Yes,Yes,20,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,0.2,939.8,0
+Male,0,Yes,No,16,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.18,1332.4,0
+Male,0,Yes,No,14,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.64,4055.5,0
+Male,1,Yes,No,28,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,1.0,141.65,0
+Female,0,Yes,No,20,Yes,No,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.0,6068.65,0
+Male,1,Yes,No,3,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.88,6143.15,1
+Female,0,Yes,No,23,Yes,Yes,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.76,3950.85,0
+Male,0,No,No,35,Yes,Yes,Fiber optic,No,Yes,No,Yes,No,Yes,Month-to-month,No,Electronic check,0.22,1451.1,0
+Female,0,Yes,Yes,46,Yes,No,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.9,777.3,1
+Female,0,No,No,6,Yes,No,Fiber optic,No,Yes,No,No,No,No,Month-to-month,Yes,Electronic check,0.08,75.7,1
+Female,1,No,No,25,Yes,Yes,Fiber optic,No,No,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.17,179.25,1
+Female,0,Yes,Yes,35,Yes,No,Fiber optic,No,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,0.86,1845.9,1
+Female,0,No,No,35,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.7,826.1,0
+Female,0,No,No,3,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),0.77,39.85,0
+Female,0,No,No,41,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.56,116.95,0
+Male,1,No,No,10,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.07,156.4,1
+Female,0,No,No,13,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),0.27,601.6,0
+Female,0,No,No,35,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.15,331.6,0
+Female,0,No,No,26,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.91,1247.75,0
+Male,0,Yes,No,44,Yes,No,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,0.68,1474.9,0
+Female,0,No,No,50,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),0.76,298.7,0
+Female,0,Yes,No,9,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,No,Month-to-month,Yes,Electronic check,0.67,1901.65,0
+Male,0,No,No,22,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.34,551.35,1
+Male,0,Yes,Yes,18,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.75,1305.95,0
+Male,0,No,No,10,Yes,Yes,DSL,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),0.02,1212.1,0
+Female,0,Yes,No,25,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.77,2780.6,0
+Male,0,Yes,No,48,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.49,1037.75,1
+Female,0,No,No,37,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),0.11,3990.6,0
+Female,0,No,No,44,Yes,No,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,0.52,1934.45,1
+Male,0,Yes,No,18,No,No phone service,DSL,No,No,No,No,No,No,One year,No,Bank transfer (automatic),0.9,259.8,1
+Male,0,No,No,36,Yes,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.67,523.5,1
+Male,0,Yes,No,31,No,No phone service,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Electronic check,0.89,667.7,1
+Female,0,No,No,43,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Mailed check,0.03,45.4,0
+Female,0,No,No,34,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.47,57.4,0
+Male,0,Yes,No,40,No,No phone service,DSL,Yes,Yes,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),0.68,3521.7,0
+Male,0,No,Yes,30,No,No phone service,DSL,Yes,No,Yes,Yes,No,No,Two year,No,Mailed check,0.7,857.75,0
+Male,0,No,No,40,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.54,18.9,0
+Male,1,Yes,No,24,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),0.65,7133.1,0
+Male,0,Yes,Yes,9,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Electronic check,0.77,4520.15,0
+Female,0,No,No,16,No,No phone service,DSL,Yes,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.75,161.45,0
+Female,0,Yes,Yes,21,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,0.3,383.65,0
+Female,0,Yes,No,17,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Credit card (automatic),0.27,1733.15,0
+Male,0,No,No,15,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.44,8035.95,0
+Female,0,Yes,Yes,7,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.56,200.2,0
+Female,1,No,No,43,Yes,Yes,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.72,1581.2,1
+Female,0,No,Yes,27,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.17,221.7,1
+Female,0,No,Yes,8,Yes,No,DSL,No,No,No,Yes,No,No,Month-to-month,No,Mailed check,0.17,953.65,0
+Male,0,No,No,50,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),0.07,2203.7,0
+Male,0,Yes,No,32,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),0.45,340.85,0
+Male,0,Yes,No,12,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.2,1421.9,0
+Female,0,Yes,Yes,37,Yes,Yes,Fiber optic,No,No,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.41,1203.9,0
+Female,1,No,No,42,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Electronic check,0.2,6139.5,0
+Female,0,No,No,28,Yes,No,DSL,Yes,No,No,Yes,No,No,One year,No,Mailed check,0.84,742.9,0
+Male,0,Yes,Yes,49,Yes,Yes,DSL,Yes,No,No,Yes,No,No,One year,Yes,Mailed check,0.6,1096.65,0
+Female,0,Yes,No,45,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Credit card (automatic),0.12,5475.9,0
+Female,0,Yes,Yes,17,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.98,886.4,0
+Female,1,No,No,20,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.5,25.2,1
+Male,0,No,No,29,No,No phone service,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.82,38.45,0
+Male,0,No,No,4,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.58,1654.75,0
+Male,1,Yes,No,41,Yes,Yes,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.15,5588.8,0
+Male,0,No,No,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.49,19.2,0
+Female,0,Yes,Yes,48,Yes,No,DSL,No,Yes,No,No,Yes,No,One year,Yes,Credit card (automatic),0.77,1215.45,0
+Female,0,No,No,39,Yes,Yes,DSL,No,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,0.09,1033.9,0
+Female,0,No,No,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,0.94,403.15,0
+Male,1,Yes,No,30,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),0.62,7051.95,0
+Male,0,Yes,No,47,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),0.79,8424.9,0
+Male,0,Yes,No,14,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Electronic check,0.37,294.2,0
+Male,0,No,No,15,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,0.11,92.75,0
+Male,1,Yes,No,49,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,0.56,7101.5,1
+Male,0,No,No,43,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,0.46,422.7,0
+Female,0,No,No,46,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.95,541.15,1
+Female,0,Yes,No,45,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.05,7069.3,0
+Female,0,Yes,No,24,Yes,No,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),0.34,2431.35,1
+Male,1,Yes,No,50,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,One year,Yes,Mailed check,0.53,7610.1,0
+Female,0,No,No,24,Yes,Yes,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.19,77.15,1
+Female,0,No,No,4,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.21,1049.6,0
+Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.22,2292.75,0
+Female,0,No,No,1,Yes,Yes,DSL,No,Yes,No,No,No,No,One year,Yes,Credit card (automatic),0.15,2364.0,0
+Female,0,No,No,14,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,0.84,1033.0,0
+Male,0,No,No,37,Yes,No,DSL,No,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),0.52,226.2,0
+Male,0,No,No,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),0.83,223.15,0
+Female,1,No,No,33,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,No,Mailed check,0.34,2106.05,0
+Female,0,No,No,14,Yes,Yes,DSL,Yes,No,Yes,No,Yes,Yes,One year,Yes,Credit card (automatic),0.64,2427.1,0
+Female,1,Yes,No,28,Yes,Yes,Fiber optic,Yes,No,No,No,No,No,Two year,No,Bank transfer (automatic),0.27,5602.25,0
+Female,0,Yes,Yes,32,Yes,No,DSL,No,No,No,No,No,Yes,Month-to-month,No,Electronic check,0.47,734.35,1
+Male,0,No,No,12,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Electronic check,0.52,2790.65,0
+Male,0,Yes,No,8,Yes,No,DSL,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,0.28,55.7,0
+Female,0,Yes,Yes,28,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,0.2,19.45,0
+Male,0,Yes,No,27,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,0.16,319.15,1
+Male,0,Yes,Yes,26,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.92,1378.45,0
+Female,0,Yes,No,4,Yes,Yes,Fiber optic,Yes,Yes,No,No,Yes,No,Month-to-month,Yes,Electronic check,0.24,5597.65,0
+Male,0,No,No,40,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),0.94,5586.45,0
+Male,0,Yes,No,17,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,0.11,1968.1,0
+Male,1,Yes,No,9,Yes,No,Fiber optic,No,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,0.65,934.1,1
+Male,0,No,No,25,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Credit card (automatic),0.83,176.2,0
+Male,0,Yes,No,23,Yes,No,DSL,No,No,No,No,No,No,Month-to-month,Yes,Bank transfer (automatic),0.81,768.05,0
+Female,0,Yes,Yes,39,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),0.63,1372.9,0
+Female,0,Yes,Yes,8,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),0.38,7511.3,0
+Male,0,Yes,No,10,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,One year,Yes,Bank transfer (automatic),0.38,6602.9,0
+Female,0,Yes,No,3,Yes,No,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,One year,Yes,Credit card (automatic),0.06,7251.9,0
+Female,0,No,No,8,Yes,No,DSL,Yes,Yes,Yes,No,No,No,Two year,Yes,Bank transfer (automatic),0.21,4017.45,0
+Female,0,No,No,2,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,One year,Yes,Electronic check,0.67,4674.4,0
+Male,0,Yes,Yes,18,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),0.38,6937.95,1
+Male,1,Yes,No,8,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,0.49,6081.4,0
+Male,0,No,No,16,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,Yes,Electronic check,0.08,70.05,1
+Male,0,No,Yes,4,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,Yes,One year,No,Credit card (automatic),0.04,2830.45,0
+Female,0,No,No,30,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,Yes,Mailed check,0.59,185.2,0
+Female,0,Yes,Yes,8,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,0.33,599.25,0
+Female,0,No,Yes,33,Yes,No,Fiber optic,No,No,No,No,No,No,Month-to-month,No,Bank transfer (automatic),0.07,994.8,1
+Female,0,No,No,3,Yes,Yes,DSL,No,Yes,No,Yes,No,Yes,One year,Yes,Mailed check,0.28,2511.95,0
